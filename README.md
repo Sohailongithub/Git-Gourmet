@@ -53,4 +53,3 @@ By leveraging version control, we aim to create a reliable and collaborative env
 
 ---
 
-With this README, contributors will have a clear understanding of the project's purpose, how to add their recipes, and the benefits of using Git for version control. It provides a solid foundation for building a transparent and collaborative recipe repository.
