@@ -1,4 +1,4 @@
-Classic Chocolate Chip Cookies
+## Classic Chocolate Chip Cookies
 
 Preparation Time: 15 minutes
 
@@ -6,7 +6,7 @@ Baking Time: 10-12 minutes
 
 Yields: 24 cookies
 
-Ingredients
+# Ingredients
 
 1 cup (2 sticks) unsalted butter, softened
 
@@ -28,7 +28,7 @@ Ingredients
 
 2 cups semisweet chocolate chips
 
-Instructions
+# Instructions
 
 Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper.
 
@@ -49,5 +49,3 @@ Bake in the preheated oven for 10-12 minutes, or until the edges are golden brow
 Allow the cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.
 
 Enjoy your delicious Classic Chocolate Chip Cookies!
-
-Feel free to customize the font style, size, or any other aspect to make it even more attractive according to your preferences!
