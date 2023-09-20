@@ -5,32 +5,55 @@
 For the rice:
 
 1 cup Basmati rice
+
 2 cups water
+
 1 bay leaf
+
 2-3 green cardamom pods
+
 2-3 cloves
+
 1-inch cinnamon stick
+
 Salt to taste
+
 For the vegetable mixture:
 
+
 1 cup mixed vegetables (carrots, peas, potatoes, beans, etc.), chopped
+
 2 tablespoons oil or ghee
+
 1 large onion, thinly sliced
+
 2 tomatoes, chopped
+
 1 tablespoon ginger-garlic paste
+
 1/2 cup plain yogurt
+
 1 teaspoon red chili powder (adjust to taste)
+
 1/2 teaspoon turmeric powder
+
 1 teaspoon garam masala
+
 1 teaspoon cumin seeds
+
 Salt to taste
+
 Fresh coriander leaves for garnish
+
 For garnish (optional):
 
 Fried onions
+
 Chopped fresh mint leaves
+
 Chopped fresh coriander leaves
-Instructions:
+
+# Instructions:
 
 # Preparation:
 
